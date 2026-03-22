@@ -1,2 +1,2 @@
 # nomao-deduplication
-Machine Learning Final Project: Place deduplication n the Nomao dataset (UCI #227) comparing Logistic Reression, KNN, Random Forest, SVM, TabNet, TabPFN, an a PyTorch neural network.
+Machine Learning Final Project — Place deduplication on the Nomao dataset (UCI #227): comparing Logistic Regression, KNN, Random Forest, SVM, TabNet, TabPFN, and a PyTorch neural network.
