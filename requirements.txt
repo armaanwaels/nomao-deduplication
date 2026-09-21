@@ -1,0 +1,13 @@
+# Pinned so the notebook reruns outside Colab. TabPFN v1 (0.1.11) calls
+# check_X_y(force_all_finite=...), which scikit-learn removed in 1.8.
+numpy==2.2.6
+pandas==2.2.3
+scikit-learn==1.6.1
+matplotlib==3.10.0
+seaborn==0.13.2
+torch==2.14.0
+pytorch-tabnet==4.1.0
+tabpfn==0.1.11
+ucimlrepo==0.0.7
+jupyter
+nbconvert
