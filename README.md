@@ -1,6 +1,6 @@
 # nomao-deduplication
 
-Place deduplication on the Nomao dataset: given two records describing businesses or places, decide whether they are the same place. I compared seven models on it, from logistic regression to a pretrained tabular foundation model. This was my final project for COMP 432 (Machine Learning) at Concordia University.
+Place deduplication on the Nomao dataset: given two records describing businesses or locations, decide whether they are the same place. I compared seven models on it, from logistic regression to a pretrained tabular foundation model. This was my final project for COMP 432 (Machine Learning) at Concordia University.
 
 ## Task and data
 
